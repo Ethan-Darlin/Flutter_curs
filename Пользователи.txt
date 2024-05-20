@@ -1,0 +1,9 @@
+Продавец:
+Логин: ivan.erkhovets@mail.ru
+Пароль: 123123
+Модератор:
+Логин: dima.volikov@mail.com
+Пароль: 12341234
+Пользователь
+Логин: dima.tomoshenko@mail.ru
+Пароль: 1234512345
